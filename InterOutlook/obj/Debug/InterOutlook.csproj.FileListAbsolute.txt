@@ -1,0 +1,11 @@
+C:\Users\nancyp.cruz\Documents\REPORTES\InterOutlook\InterOutlook\bin\Debug\InterOutlook.exe.config
+C:\Users\nancyp.cruz\Documents\REPORTES\InterOutlook\InterOutlook\bin\Debug\InterOutlook.exe
+C:\Users\nancyp.cruz\Documents\REPORTES\InterOutlook\InterOutlook\bin\Debug\InterOutlook.pdb
+C:\Users\nancyp.cruz\Documents\REPORTES\InterOutlook\InterOutlook\obj\Debug\InterOutlook.csprojResolveAssemblyReference.cache
+C:\Users\nancyp.cruz\Documents\REPORTES\InterOutlook\InterOutlook\obj\Debug\InterOutlook.csproj.ResolveComReference.cache
+C:\Users\nancyp.cruz\Documents\REPORTES\InterOutlook\InterOutlook\obj\Debug\InterOutlook.exe
+C:\Users\nancyp.cruz\Documents\REPORTES\InterOutlook\InterOutlook\obj\Debug\InterOutlook.pdb
+C:\Users\nancyp.cruz\Documents\REPORTES\olkPlug\InterOutlook\bin\Debug\InterOutlook.exe.config
+C:\Users\nancyp.cruz\Documents\REPORTES\olkPlug\InterOutlook\obj\Debug\InterOutlook.csproj.ResolveComReference.cache
+C:\Users\nancyp.cruz\Documents\REPORTES\olkPlug\InterOutlook\obj\Debug\InterOutlook.exe
+C:\Users\nancyp.cruz\Documents\REPORTES\olkPlug\InterOutlook\obj\Debug\InterOutlook.pdb
